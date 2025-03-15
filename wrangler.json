@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2024-11-01",
+  "main": "src/index.ts",
+  "name": "proud-haze-cloudflare",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "7c19c667-cd9c-4f4d-bfdb-6c99a027349a",
+      "database_name": "black-math-642c-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
